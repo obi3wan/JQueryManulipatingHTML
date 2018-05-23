@@ -37,7 +37,7 @@ $('#btn3').click(function () {
 
 });
 
-var friends = ['Daniel', 'Jose', 'Sean', 'Cameron', 'James', 'Adam', 'Bob', 'Charles', 'David', 'Ed'];
+var friends = ['Jeff', 'Ben', 'Jake', 'Derek', 'Chris', 'John', 'Bob', 'Charles', 'David', 'Ed'];
 
 $('<button id="btn4">Show Friends</button>').appendTo('body');
 $('<ul id="friendList"></ul>').appendTo('body');
